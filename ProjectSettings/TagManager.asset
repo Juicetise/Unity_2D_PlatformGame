@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - exit
+  - tpout
+  - tpin
+  - switch
+  - floor
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - scene
+  - red
+  - blue
+  - yellow
+  - playerblue
+  - playerred
+  - playeryellow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3545289053
+    locked: 0
+  - name: scene
+    uniqueID: 2035298713
+    locked: 0
+  - name: player
+    uniqueID: 2230427891
+    locked: 0
